@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-import SingleCard from "./singleCard";
+import SingleCard from "./SingleCard";
 
 const cardImages = [
     { src: "./assets/Niko1.png", matched: false },
